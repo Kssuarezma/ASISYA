@@ -1,0 +1,39 @@
+[
+  {
+    "ContainingType": "ASISYA.Controllers.Autenticacion.AuthenticationController",
+    "Method": "Authenticate",
+    "RelativePath": "api/Authentication/GenerarToken",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "user",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "pass",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ASISYA.Controllers.Productos.ProductosController",
+    "Method": "CrearCategorias",
+    "RelativePath": "api/RadicacionElectronica/CrearCategorias",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "APICOMMON.DTO.Productos.CategoriesDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
