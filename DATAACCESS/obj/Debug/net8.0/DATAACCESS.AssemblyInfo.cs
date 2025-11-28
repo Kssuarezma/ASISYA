@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("ASISYA")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("DATAACCESS")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a8d7998b6baa0236fe24be010c075e0f6b6012ed")]
-[assembly: System.Reflection.AssemblyProductAttribute("ASISYA")]
-[assembly: System.Reflection.AssemblyTitleAttribute("ASISYA")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5bdbdd59f17ab97610a76685e2487bd05d59c8fa")]
+[assembly: System.Reflection.AssemblyProductAttribute("DATAACCESS")]
+[assembly: System.Reflection.AssemblyTitleAttribute("DATAACCESS")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.
