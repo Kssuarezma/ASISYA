@@ -53,7 +53,8 @@ El token generado debe incluirse en la cabecera (**Header**) de cada petición p
 
 * **Key:** `Authorization`
 * **Value:** `Bearer [TU_TOKEN_GENERADO]`
-
+* **User:** `ASISYATOKEN`
+* **Pass:** `Sup3rU53r*_xx`
 ---
 
 ## 💻 Endpoints del `ProductosController`
